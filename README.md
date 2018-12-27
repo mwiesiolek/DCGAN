@@ -1,1 +1,1 @@
-# machine-learning-classifiers
+# machine-learning
